@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8f22775-13ca-48bf-ab46-b566a0a2d3a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1johbeS5VPX4ukdYcExtjcsUVNH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Web development/EJS Challenge Starting Files" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8f22775-13ca-48bf-ab46-b566a0a2d3a1" name="Default Changelist" comment="" />
+      <created>1604476424691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604476424691</updated>
+      <workItem from="1604476425769" duration="15298000" />
+      <workItem from="1604542391742" duration="4921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="108" key="FileChooserDialogImpl" timestamp="1604503330368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604503330368" />
+    <state x="61" y="0" width="1146" height="800" key="dock-window-1" timestamp="1604487834629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="61" y="0" width="1146" height="800" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1604487834629" />
+  </component>
+</project>
